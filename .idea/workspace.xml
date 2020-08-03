@@ -2,65 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d7b2f4-83ba-4c20-b269-196d797b9f8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nio/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/adapter/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arithmetic/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/MyReenterLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nio/socket/NioClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nio/socket/server/NioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/bean/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zookeeper/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/client/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/client/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/command/OrderUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/command/OrderUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/concreteCommand/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/concreteCommand/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/invoker/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/invoker/Waiter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/receiver/ChinaCooker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/receiver/ChinaCooker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/receiver/CookAble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/receiver/CookAble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/receiver/CookCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/receiver/CookCallBack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/command/receiver/CookerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/receiver/CookerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/responsibility/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/responsibility/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/responsibility/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/responsibility/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/responsibility/FilterChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/responsibility/FilterChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/responsibility/FirstLetterFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/responsibility/FirstLetterFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/responsibility/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/responsibility/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/responsibility/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/responsibility/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/responsibility/SecondLetterFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/responsibility/SecondLetterFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/abstracts/factory/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/abstracts/factory/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/abstracts/factory/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/abstracts/factory/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/abstracts/factory/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/abstracts/factory/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/abstracts/factory/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/abstracts/factory/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/abstracts/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/abstracts/factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/abstracts/factory/FactoryCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/abstracts/factory/FactoryCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/abstracts/factory/FactoryDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/abstracts/factory/FactoryDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/builder/model1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/builder/model1/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/builder/model1/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/builder/model1/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/builder/model1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/builder/model1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/builder/model1/CatBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/builder/model1/CatBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/builder/model1/CatDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/builder/model1/CatDirector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/builder/model2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/builder/model2/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/builder/model2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/builder/model2/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/origin/light/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/origin/light/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/origin/light/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/origin/light/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/origin/light/Foot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/origin/light/Foot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/singleton/hungry/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/singleton/hungry/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/singleton/hungry/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/singleton/hungry/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/singleton/lazy/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/singleton/lazy/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/singleton/lazy/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/singleton/lazy/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/statics/factory/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/statics/factory/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/statics/factory/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/statics/factory/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/statics/factory/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/statics/factory/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/statics/factory/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/statics/factory/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/create/statics/factory/StaticFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/create/statics/factory/StaticFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/adapter/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/http/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/adapter/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/adapter/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/adapter/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/adapter/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/adapter/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/adapter/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/adapter/FlyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/adapter/FlyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/abstraction/AbstractRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/abstraction/AbstractRemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/abstraction/HaierRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/abstraction/HaierRemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/abstraction/SonyRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/abstraction/SonyRemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/abstraction/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/abstraction/TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/tv/AbstractTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/tv/AbstractTv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/tv/HaierTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/tv/HaierTV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structure/bridge/pattern/tv/SonyTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/structure/bridge/pattern/tv/SonyTV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/factory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nio/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nio/file/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/action/command/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/action/command/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/factory.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/factory.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/Dish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/client/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/command/OrderUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/concreteCommand/Order$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/concreteCommand/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/invoker/Waiter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/receiver/ChinaCooker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/receiver/ChinaCooker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/receiver/CookAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/receiver/CookCallBack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/command/receiver/CookerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/responsibility/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/responsibility/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/responsibility/FilterChain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/responsibility/FirstLetterFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/responsibility/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/responsibility/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/responsibility/SecondLetterFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/abstracts/factory/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/abstracts/factory/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/abstracts/factory/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/abstracts/factory/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/abstracts/factory/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/abstracts/factory/FactoryCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/abstracts/factory/FactoryDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model1/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model1/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model1/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model1/CatBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model1/CatDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model2/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model2/Cat$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/builder/model2/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/origin/light/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/origin/light/Cat$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/origin/light/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/origin/light/Foot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/singleton/hungry/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/singleton/hungry/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/singleton/lazy/Application$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/singleton/lazy/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/singleton/lazy/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/statics/factory/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/statics/factory/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/statics/factory/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/statics/factory/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/create/statics/factory/StaticFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/adapter/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/adapter/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/adapter/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/adapter/Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/adapter/FlyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/abstraction/AbstractRemoteControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/abstraction/HaierRemoteControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/abstraction/SonyRemoteControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/abstraction/TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/tv/AbstractTv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/tv/HaierTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structure/bridge/pattern/tv/SonyTV.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,18 +110,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>增强</find>
-      <find>Haier</find>
-      <find>HaierTV</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>代理</replace>
-      <replace>Sony</replace>
-      <replace>SonyTV</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -109,20 +122,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588146727706" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zookeeper" />
+      <recent name="spring.bean" />
+      <recent name="arithmetic" />
       <recent name="http" />
       <recent name="nio" />
-      <recent name="proxy" />
-      <recent name="structure.bridge.tradition" />
-      <recent name="structure.bridge.remote" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/structure/bridge/tradition" />
@@ -131,7 +149,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/abstracts/factory" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NioClient">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -161,6 +179,20 @@
     </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zookeeper.Application" />
+      <module name="factory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -249,6 +281,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.socket.NioClient" />
+      <module name="factory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.socket.server.NioServer" />
+      <module name="factory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.socket.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -314,6 +374,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NioClient" />
+        <item itemvalue="Application.NioServer" />
+        <item itemvalue="Application.Application (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -328,7 +395,18 @@
       <workItem from="1592905618568" duration="300000" />
       <workItem from="1592905926778" duration="1347000" />
       <workItem from="1594950062371" duration="10862000" />
-      <workItem from="1595237577235" duration="2456000" />
+      <workItem from="1595237577235" duration="9068000" />
+      <workItem from="1595994928670" duration="1920000" />
+      <workItem from="1595997309807" duration="170000" />
+      <workItem from="1595997501729" duration="97000" />
+      <workItem from="1595997612064" duration="19000" />
+      <workItem from="1595997642145" duration="91000" />
+      <workItem from="1595997745915" duration="668000" />
+      <workItem from="1595999710567" duration="150000" />
+      <workItem from="1595999872921" duration="938000" />
+      <workItem from="1596158521459" duration="1370000" />
+      <workItem from="1596252587837" duration="1428000" />
+      <workItem from="1596377513140" duration="11927000" />
     </task>
     <servers />
   </component>
@@ -336,14 +414,92 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596437715732">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596437715732" />
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1596253330470">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1596253330470" />
+    <state x="457" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596437713393">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="457" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596437713393" />
     <state x="354" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595234250470">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="354" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1595234250470" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1595231661928">
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom" timestamp="1596440937016">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1595231661928" />
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440937016" />
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1595997237796" />
+    <state width="1398" height="197" key="GridCell.Tab.0.center" timestamp="1596440937016">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.0.center/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440937016" />
+    <state width="1398" height="135" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1595997237795" />
+    <state width="1398" height="197" key="GridCell.Tab.0.left" timestamp="1596440937015">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.0.left/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440937015" />
+    <state width="1398" height="135" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1595997237795" />
+    <state width="1398" height="197" key="GridCell.Tab.0.right" timestamp="1596440937016">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.0.right/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440937016" />
+    <state width="1398" height="135" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1595997237795" />
+    <state width="1398" height="231" key="GridCell.Tab.1.bottom" timestamp="1596440089542">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.bottom/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440089542" />
+    <state width="1398" height="231" key="GridCell.Tab.1.center" timestamp="1596440089542">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.center/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440089542" />
+    <state width="1398" height="231" key="GridCell.Tab.1.left" timestamp="1596440089541">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.left/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440089541" />
+    <state width="1398" height="231" key="GridCell.Tab.1.right" timestamp="1596440089542">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.right/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596440089542" />
+    <state x="180" y="23" key="SettingsEditor" timestamp="1595999934863">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="180" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1595999934863" />
+    <state x="450" y="160" width="549" height="524" key="StructurePopup" timestamp="1596158694412">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="450" y="160" width="549" height="524" key="StructurePopup/0.23.1440.797@0.23.1440.797" timestamp="1596158694412" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1596437981425">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596437981425" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.797@0.23.1440.797" timestamp="1596253298341" />
+    <state x="263" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596437071027">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="263" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596437071027" />
+    <state x="458" y="166" key="extract.method.dialog" timestamp="1596439562542">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="458" y="166" key="extract.method.dialog/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596439562542" />
+    <state x="375" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1596439688434">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="375" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797/-623.-1417.2560.1417@0.23.1440.797" timestamp="1596439688434" />
+    <state x="375" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1596254766837" />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="localhost" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="" />
+    <option name="enabled" value="true" />
+    <option name="tooltip" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
